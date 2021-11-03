@@ -11,8 +11,10 @@ public class HW {
 			
 			System.out.println(i+ " ");
 			even +=i;
+			System.out.println("\n");
 		}
-		System.out.println("\n");
+		
 	}
 
+	
 }

@@ -16,7 +16,7 @@ public class Method4Tester {
 		// be returned
 		canBeAnyName.method4("Nasir");
 		canBeAnyName.method5("Henok");
-		System.out.println(canBeAnyName.method5("Henok"));
+		System.out.println(canBeAnyName.method5("Henok") );
 	}
 
 }
